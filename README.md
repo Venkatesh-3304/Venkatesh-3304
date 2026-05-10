@@ -45,17 +45,6 @@ Customer analytics project identifying high-value segments, churn risks, and rev
 
 ---
 
-### ☕ Coffee Shop Sales Analysis Dashboard
-`Excel` `Power Query`
-
-Retail sales analysis identifying peak revenue windows, top-performing stores, and best-selling categories.
-
-- Morning peak revenue window: 7–10 AM
-- Tea as #1 revenue category (35%)
-- Hell's Kitchen as highest-converting store
-
----
-
 ### 🛒 RetailMart Analytics Platform
 `PostgreSQL` `SQL`
 
@@ -81,7 +70,6 @@ Advanced SQL EDA on a large enterprise retail dataset covering customer segmenta
 
 Data Analyst · Business Analyst · BI Analyst
 
-Target companies: TCS · Deloitte · Amazon · Infosys · Saasvaap
 
 ---
 
